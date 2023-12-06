@@ -1,5 +1,0 @@
-<script>
-    var a = 7
-    var b = "Jumping monkey"
-    console.log(a)
-</script>
